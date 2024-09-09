@@ -1,0 +1,2 @@
+# ConfigUpravPraktiki
+практические работы
